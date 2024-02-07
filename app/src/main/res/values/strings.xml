@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">FYP_ChatApp</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="login_to_continue">Login to Continue</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="add_image">Add Image</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="type_a_message">Type a Message</string>
+    <string name="offline">Offline</string>
+    <string name="online">Online</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Homepage</string>
+    <string name="title_contact">Contact</string>
+    <string name="title_profile">Profile</string>
+    <string name="contact">Contact</string>
+    <string name="add_friend">Add Friend</string>
+    <string name="input_email_to_add_friend">Input Email to Add Friend</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="view_avatar">View Avatar</string>
+    <string name="remove_friend">Remove Friend</string>
+    <string name="send_message">Send Message</string>
+    <string name="real_name">Real Name</string>
+    <string name="upload">Upload</string>
+    <string name="friend_requests">Friend Requests</string>
+    <string name="conversation">Conversation</string>
+    <string name="pending">Pending</string>
+    <string name="user_avatar">User Avatar</string>
+    <string name="friend_profile">Friend Profile</string>
+    <string name="gender">Gender</string>
+    <string name="set_background">Set Background</string>
+</resources>
