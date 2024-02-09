@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.fyp_chatapp'
+    namespace 'com.hmy.chatapp'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.fyp_chatapp"
+        applicationId "com.hmy.chatapp"
         minSdk 26
         targetSdk 33
         versionCode 1

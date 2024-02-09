@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FYP_ChatApp</string>
+    <string name="app_name">ChatApp</string>
     <string name="welcome_back">Welcome Back!</string>
     <string name="login_to_continue">Login to Continue</string>
     <string name="create_new_account">Create New Account</string>

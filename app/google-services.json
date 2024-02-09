@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "1005132282793",
+    "firebase_url": "https://chatapp-bb6cc-default-rtdb.asia-southeast1.firebasedatabase.app",
     "project_id": "chatapp-bb6cc",
     "storage_bucket": "chatapp-bb6cc.appspot.com"
   },
@@ -10,6 +11,35 @@
         "mobilesdk_app_id": "1:1005132282793:android:d3da59b5bf5dd8f376a2b8",
         "android_client_info": {
           "package_name": "com.example.fyp_chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005132282793-tr6n4ucnr6p96bdskphemnm3cpug7ft5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeFIa_i1_M-QOksnNf69gKLjGKZtf0tJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005132282793-tr6n4ucnr6p96bdskphemnm3cpug7ft5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005132282793:android:4437ed77ee30ca6276a2b8",
+        "android_client_info": {
+          "package_name": "com.hmy.chatapp"
         }
       },
       "oauth_client": [
